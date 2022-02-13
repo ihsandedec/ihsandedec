@@ -5,6 +5,8 @@
   <p> I'm studying Computer Engineering. Because I'm at an initial level in software, I'm trying to improve myself in C#, html, css, javascript and SQL. At GitHub, I try to share the little apps I made while developing myself. My goal is to be a good full stack developer. this is my Social Home ✒️ </p>
   
   <h3> Connect with me  </h3>
+  <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ihsan-dedeç-6402b11a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/ihsan-dede%C3%A7-6402b11a7?trk=profile-badge">İhsan Dedeç</a></div>
+              
   
   <p> 
   <a href="https://mail.google.com/ddcihsan@gmail.com" rel="nofollow">
