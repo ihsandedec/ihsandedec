@@ -13,7 +13,7 @@
   <img alt="guilyx | mail" width=25px" padding="15px" src="https://image.flaticon.com/icons/png/512/2965/2965306.png" style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/ihsan.ddc/?hl=tr" rel="nofollow">
-  <img alt="instagram" width="25px" src="https://www.flaticon.com/premium-icon/instagram_3670274?term=instagram&page=1&position=7&page=1&position=7&related_id=3670274&origin=search" style="max-width:100%;">
+  <img alt="instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" style="max-width:100%;">
   </a>
   <a href="https://www.linkedin.com/in/ihsan-dede%C3%A7-6402b11a7/" rel="nofollow">
   <img alt="linkedin" width="25px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" style="max-width:100%;">
