@@ -1,13 +1,13 @@
 <hr>
 
-<h1> Hi I'm İhsan <a rel="nofollow"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a>  </h1>
+<h1> İhsan Dedeç 👨‍💻 </h1>
 
-  <p> I'm studying Computer Engineering. Because I'm at an initial level in software, I'm trying to improve myself in C++, C#, Python, Html, Css, Javascript and SQL. At GitHub, I try to share the little apps I made while developing myself. My goal is to be a good full stack developer. this is my Social Home ✒️ </p>
-  
-  <h3> Connect with me  </h3>
+   <p> Merhaba Ben İhsan, Düzce Üniversitesi Bilgisayar Mühendisliği bölümünden mezun bir yazılım geliştiriciyim. Proje geliştirme ve modern teknolojilere adapte olma konularında aktif bir şekilde çalışıyorum. Hem backend hem frontend geliştirmede tecrübem var ve yazılım mimarisinden kod optimizasyonuna kadar geniş bir beceri yelpazesi sunuyorum. </p>
+  <p>Sürekli öğrenmeyi ve kendimi geliştirmeyi öncelik haline getirmiş bir mühendis olarak, yazılım geliştirme dünyasında yenilikçi çözümler üretmeyi hedefliyorum. Yeni teknolojilerle projeler geliştirmek ve etkili yazılım mimarileri tasarlamak için her zaman hazırım.</p>
 
-              
   
+  <h3> İLETİŞİM  </h3>
+
   <p> 
   <a href="mailto:ddcihsan@gmail.com" rel="nofollow">
   <img alt="mail" width=30px" margin="5px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="max-width:100%;">
